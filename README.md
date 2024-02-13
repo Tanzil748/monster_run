@@ -1,1 +1,3 @@
-# monster_run
+# Monster Run
+
+## A fun adventure game where the player needs to avoid the monsters and kill...
